@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "bulid": "tsc --watch"
+  },
+  "name": "lab-4",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOOSSIILL/TALLER-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FOOSSIILL/TALLER-2/issues"
+  },
+  "homepage": "https://github.com/FOOSSIILL/TALLER-2#readme",
+  "description": ""
+}
