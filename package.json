@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "bulid": "tsc --watch"
+    "build": "tsc --watch"
   },
   "name": "lab-4",
   "version": "1.0.0",
